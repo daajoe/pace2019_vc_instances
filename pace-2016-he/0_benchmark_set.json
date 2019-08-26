@@ -1,0 +1,11 @@
+{
+  "name": "pace-2016-he",
+  "origin": "https://pacechallenge.org/2016/09/12/results-PACE-2016/",
+  "clone": "subset",
+  "format": "gr",
+  "original_format": "gr",
+  "original_problems": "Maximum Independent Set (MIS) and Minimum Vertex Cover (MVC)",
+  "sources1": "https://github.com/freetdi/CFGs",
+  "sources2": "https://github.com/freetdi/named-graphs",
+  "sources3": "https://mat.gsia.cmu.edu/COLOR/instances.html"
+}
