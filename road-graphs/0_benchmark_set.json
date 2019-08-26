@@ -1,0 +1,9 @@
+{
+  "name": "road-graphs",
+  "origin": "https://github.com/ben-strasser/road-graphs-pace16",
+  "clone": "subset",
+  "format": "gr",
+  "original_format": "gr",
+  "original_problems": "road graphs geografical maps",
+  "sources1": "http://www2.census.gov/geo/tiger/"
+}
