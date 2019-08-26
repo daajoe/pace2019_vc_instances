@@ -1,0 +1,8 @@
+{
+  "name": "BHOSLIB",
+  "origin": "http://sites.nlsde.buaa.edu.cn/~kexu/",
+  "clone": "subset",
+  "format": "gr",
+  "original_format": "dimacs_gr",
+  "original_problems": "Maximum Independent Set (MIS) and Minimum Vertex Cover (MVC)"
+}
