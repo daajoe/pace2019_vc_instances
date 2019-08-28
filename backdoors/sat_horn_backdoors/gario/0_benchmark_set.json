@@ -1,0 +1,13 @@
+{
+  "name": "sat_horn_backdoors",
+  "subset": "gario",
+  "origin": "https://marco.gario.org/work/master/",
+  "format": "gr",
+  "original_format": "dimacs",
+  "original_problems": "Various SAT instances",
+  "converter": "https://marco.gario.org/work/master/",
+  "converter2": "https://github.com/daajoe/sat_horn_backdoors",
+  "description": "Horn backdoor graphs of logic programs (ASP)",
+  "domain": "parameterized_complexity",
+  "reduction": "FichteSzeider15"
+}

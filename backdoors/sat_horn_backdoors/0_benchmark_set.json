@@ -1,0 +1,11 @@
+{
+  "name": "asp_horn_backdoors",
+  "clone": "subset",
+  "format": "gr",
+  "original_format": "lp",
+  "original_problems": "Horn backdoor graphs of logic programs (ASP)",
+  "converter": "https://github.com/daajoe/asp_horn_backdoors",
+  "comment": "For details see 0_benchmark_set.json in the respective subset",
+  "domain": "parameterized_complexity",
+  "reduction": "FichteSzeider15"
+}

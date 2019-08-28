@@ -1,0 +1,14 @@
+{
+  "name": "sat_horn_backdoors",
+  "subset": "counting-benchmarks",
+  "origin": "https://github.com/dfremont/counting-benchmarks",
+  "format": "gr",
+  "original_format": "dimacs",
+  "original_problems": "Various SAT instances",
+  "converter": "https://marco.gario.org/work/master/",
+  "converter2": "https://github.com/daajoe/sat_horn_backdoors",
+  "problem": "Horn backdoor graphs of logic programs (ASP)",
+  "reduction": "FichteSzeider15",
+  "domain": "parameterized_complexity",
+  "comment": "We considered only benchmarks from the projection set."
+}
