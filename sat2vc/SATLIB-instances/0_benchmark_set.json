@@ -1,0 +1,9 @@
+{
+  "name": "sat2vc",
+  "subset": "SATLIB-instances",
+  "origin": "https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html",
+  "format": "gr",
+  "original_format": "dimacs",
+  "original_problems": "SAT problems",
+  "converter": "https://github.com/daajoe/sat2vc"
+}

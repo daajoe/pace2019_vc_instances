@@ -1,0 +1,11 @@
+{
+  "name": "sat2vc",
+  "subset": "counting-benchmarks",
+  "origin": "https://github.com/dfremont/counting-benchmarks",
+  "clone": "subset",
+  "format": "gr",
+  "original_format": "dimacs",
+  "original_problems": "SAT problems",
+  "converter": "https://github.com/daajoe/sat2vc",
+  "comment": "We dropped files where the converter outputted a graph that is larger then 5MB after bz2 compression."
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sat2vc",
+  "subset": "sat-competition-2018",
+  "origin": "http://sat2018.forsyte.tuwien.ac.at/benchmarks/",
+  "clone": "subset",
+  "format": "gr",
+  "original_format": "dimacs",
+  "original_problems": "SAT problems",
+  "converter": "https://github.com/daajoe/sat2vc"
+}
