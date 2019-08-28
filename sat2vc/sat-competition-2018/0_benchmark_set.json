@@ -8,5 +8,6 @@
   "original_problems": "SAT problems",
   "description": "Karp72 SAT to vertex cover reduction.",
   "domain": "sat",
-  "converter": "https://github.com/daajoe/sat2vc"
+  "converter": "https://github.com/daajoe/sat2vc",
+  "comment": "We removed unsat instances if they could not be solved by gurobi within 1,800s."
 }

@@ -4,7 +4,8 @@
   "original_format": "dimacs",
   "original_problems": "SAT problems",
   "converter": "https://github.com/daajoe/sat2vc",
-  "comment": "For details see 0_benchmark_set.json in the respective subset",
   "domain": "sat",
-  "description": "Karp72 SAT to vertex cover reduction."
+  "description": "Karp72 SAT to vertex cover reduction.",
+  "comment": "For details see 0_benchmark_set.json in the respective subset",
+  "comment2": "We removed unsat instances if they could not be solved by gurobi within 1,800s."
 }

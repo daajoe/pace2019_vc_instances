@@ -9,5 +9,7 @@
   "converter": "https://github.com/daajoe/sat2vc",
   "description": "Karp72 SAT to vertex cover reduction.",
   "domain": "#sat",
-  "comment": "We dropped files where the converter outputted a graph that is larger then 5MB after bz2 compression."
+  "description": "Karp72 SAT to vertex cover reduction.",
+  "comment": "We dropped files where the converter outputted a graph that is larger then 5MB after bz2 compression.",
+  "comment2": "We removed unsat instances if they could not be solved by gurobi within 1,800s."
 }
