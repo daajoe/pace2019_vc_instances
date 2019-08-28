@@ -1,0 +1,9 @@
+{
+  "name": "transit",
+  "origin": "https://transitfeeds.com",
+  "clone": "subset",
+  "format": "gr",
+  "original_format": "gtfs",
+  "original_problems": "Transit feeds from various transit authorities",
+  "converter": "https://github.com/daajoe/gtfs2graphs"
+}
