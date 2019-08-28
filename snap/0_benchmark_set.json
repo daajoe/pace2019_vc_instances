@@ -1,0 +1,9 @@
+{
+  "name": "snap",
+  "origin": "http://snap.stanford.edu/",
+  "clone": "subset",
+  "format": "gr",
+  "original_format": "csv",
+  "original_problems": "Stanford Large Network Dataset Collection: A collection of more than 50 large network datasets from tens of thousands of nodes and edges to tens of millions of nodes and edges. In includes social networks, web graphs, road networks, internet networks, citation networks, collaboration networks, and communication networks.",
+  "converter": "https://github.com/daajoe/graph_converters"
+}
