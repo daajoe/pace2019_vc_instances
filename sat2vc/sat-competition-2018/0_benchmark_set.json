@@ -6,5 +6,7 @@
   "format": "gr",
   "original_format": "dimacs",
   "original_problems": "SAT problems",
+  "description": "Karp72 SAT to vertex cover reduction.",
+  "domain": "sat",
   "converter": "https://github.com/daajoe/sat2vc"
 }

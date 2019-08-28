@@ -7,5 +7,7 @@
   "original_format": "dimacs",
   "original_problems": "SAT problems",
   "converter": "https://github.com/daajoe/sat2vc",
+  "description": "Karp72 SAT to vertex cover reduction.",
+  "domain": "#sat",
   "comment": "We dropped files where the converter outputted a graph that is larger then 5MB after bz2 compression."
 }

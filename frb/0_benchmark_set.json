@@ -4,5 +4,6 @@
   "clone": "subset",
   "format": "gr",
   "original_format": "dimacs_gr",
-  "original_problems": "Maximum Independent Set (MIS) and Minimum Vertex Cover (MVC)"
+  "original_problems": "Maximum Independent Set (MIS) and Minimum Vertex Cover (MVC)",
+  "domain": "graph"
 }

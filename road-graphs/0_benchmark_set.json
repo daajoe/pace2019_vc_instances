@@ -5,5 +5,6 @@
   "format": "gr",
   "original_format": "gr",
   "original_problems": "road graphs geografical maps",
-  "sources1": "http://www2.census.gov/geo/tiger/"
+  "domain": "graphs",
+  "sources": "http://www2.census.gov/geo/tiger/"
 }
