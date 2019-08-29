@@ -1,0 +1,13 @@
+{
+  "name": "asp_horn_backdoors",
+  "subset": "automotive",
+  "origin": "http://www.carstensinz.de/index.html",
+  "clone": "subset",
+  "format": "gr",
+  "original_format": "lparse",
+  "original_problems": "Automotive Product Configuration. Rules check and modify orders, generate parts-list.",
+  "description": "Horn backdoor graphs of logic programs (ASP)",
+  "converter": "https://github.com/daajoe/asp_horn_backdoors",
+  "domain": "parameterized_complexity",
+  "reduction": "FichteSzeider15"
+}

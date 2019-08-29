@@ -1,0 +1,13 @@
+{
+  "name": "asp_horn_backdoors",
+  "subset": "SCoreDLP-Mutex",
+  "origin": "https://asparagus.cs.uni-potsdam.de/contest/index.php?page=summary_bms&type=scoredlp",
+  "clone": "subset",
+  "format": "gr",
+  "original_format": "lparse",
+  "original_problems": "M. Maratea, F. Ricca, W. Faber, and N. Leone. Look-back techniques and heuristics in DLV: Implementation, evaluation, and comparison to QBF solvers. J. Algorithms, 63, 2008.",
+  "description": "Horn backdoor graphs of logic programs (ASP)",
+  "converter": "https://github.com/daajoe/asp_horn_backdoors",
+  "domain": "parameterized_complexity",
+  "reduction": "FichteSzeider15"
+}

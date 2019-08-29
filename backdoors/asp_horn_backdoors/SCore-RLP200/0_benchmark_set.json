@@ -1,0 +1,13 @@
+{
+  "name": "asp_horn_backdoors",
+  "subset": "SCore-RLP200",
+  "origin": "https://asparagus.cs.uni-potsdam.de/contest/index.php?page=summary_bms&type=scoredlp",
+  "clone": "subset",
+  "format": "gr",
+  "original_format": "lparse",
+  "original_problems": "Y. Zhao and F. Lin. Answer set programming phase transition: A study on randomly generate programs. ICLP 2003.",
+  "converter": "https://github.com/daajoe/asp_horn_backdoors",
+  "descrition": "Horn backdoor graphs of logic programs (ASP)",
+  "domain": "parameterized_complexity",
+  "reduction": "FichteSzeider15"
+}

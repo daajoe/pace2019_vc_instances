@@ -1,0 +1,13 @@
+{
+  "name": "asp_horn_backdoors",
+  "subset": "MinimalDiagnosis",
+  "origin": "https://www.mat.unical.it/aspcomp2011/FinalProblemDescriptions/MinimalDiagnosis",
+  "clone": "subset",
+  "format": "gr",
+  "original_format": "lparse",
+  "original_problems": "Application in systems biology. Repairing large-scale biological networks and corresponding yet often discrepant measurements in order to predict unobserved variations.",
+  "converter": "https://github.com/daajoe/asp_horn_backdoors",
+  "description": "Horn backdoor graphs of logic programs (ASP)",
+  "domain": "parameterized_complexity",
+  "reduction": "FichteSzeider15"
+}
