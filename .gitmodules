@@ -13,3 +13,6 @@
 [submodule "1_converter/sat2vc"]
 	path = 1_converter/sat2vc
 	url = git@github.com:daajoe/sat2vc.git
+[submodule "2_validator/vc_validate"]
+	path = 2_validator/vc_validate
+	url = git@github.com:hmarkus/vc_validate.git
