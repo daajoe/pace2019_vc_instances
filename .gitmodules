@@ -1,0 +1,15 @@
+[submodule "1_converter/sat_horn_backdoors"]
+	path = 1_converter/sat_horn_backdoors
+	url = git@github.com:daajoe/sat_horn_backdoors.git
+[submodule "1_converter/asp_horn_backdoors"]
+	path = 1_converter/asp_horn_backdoors
+	url = git@github.com:daajoe/asp_horn_backdoors.git
+[submodule "1_converter/graph_converters"]
+	path = 1_converter/graph_converters
+	url = git@github.com:daajoe/graph_converters.git
+[submodule "1_converter/gtfs2graphs"]
+	path = 1_converter/gtfs2graphs
+	url = git@github.com:daajoe/gtfs2graphs.git
+[submodule "1_converter/sat2vc"]
+	path = 1_converter/sat2vc
+	url = git@github.com:daajoe/sat2vc.git
