@@ -1,18 +1,18 @@
 [submodule "1_converter/sat_horn_backdoors"]
 	path = 1_converter/sat_horn_backdoors
-	url = git@github.com:daajoe/sat_horn_backdoors.git
+	url = https://github.com/daajoe/sat_horn_backdoors.git
 [submodule "1_converter/asp_horn_backdoors"]
 	path = 1_converter/asp_horn_backdoors
-	url = git@github.com:daajoe/asp_horn_backdoors.git
+	url = https://github.com/daajoe/asp_horn_backdoors.git
 [submodule "1_converter/graph_converters"]
 	path = 1_converter/graph_converters
-	url = git@github.com:daajoe/graph_converters.git
+	url = https://github.com/daajoe/graph_converters.git
 [submodule "1_converter/gtfs2graphs"]
 	path = 1_converter/gtfs2graphs
-	url = git@github.com:daajoe/gtfs2graphs.git
+	url = https://github.com/daajoe/gtfs2graphs.git
 [submodule "1_converter/sat2vc"]
 	path = 1_converter/sat2vc
-	url = git@github.com:daajoe/sat2vc.git
+	url = https://github.com/daajoe/sat2vc.git
 [submodule "2_validator/vc_validate"]
 	path = 2_validator/vc_validate
-	url = git@github.com:hmarkus/vc_validate.git
+	url = https://github.com/hmarkus/vc_validate.git
